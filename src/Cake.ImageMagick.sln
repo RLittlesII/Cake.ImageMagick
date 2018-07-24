@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake.ImageMagick", "Cake.ImageMagick\Cake.ImageMagick.csproj", "{4BEDDFC3-372C-4EF9-BD4F-5CEB77945309}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0BA8DCB9-6BAF-4ABC-A684-5A0CCBA82BD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{D2C71678-F4BC-4DA9-B49F-F89142E2DFF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

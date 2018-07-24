@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RuntimeFrameworkVersion>2.1.0-preview1-26013-05</RuntimeFrameworkVersion>
+    <NETStandardImplicitPackageVersion>2.1.0-preview1-26013-05</NETStandardImplicitPackageVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Cake.Core" Version="0.26.0" />
+  </ItemGroup>
+</Project>

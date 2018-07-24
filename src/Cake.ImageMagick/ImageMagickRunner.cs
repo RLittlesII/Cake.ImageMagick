@@ -14,7 +14,7 @@ namespace Cake.ImageMagick
         {
         }
 
-        public void Run(ImageMagickOptions options)
+        public void Magick(ImageMagickOptions options)
         {
             Run(options, Arguments(options));
         }
